@@ -131,12 +131,6 @@ Quote: 1000.0
 
 ## Contract Deployment
 
-### BEAT Contract (AddTriggerDirect)
-
-```bash
-forge create contracts/AddTriggerDirect.sol:AddTriggerDirect --rpc-url <RPC> --private-key $PRIVATE_KEY --broadcast
-```
-
 ### Universal Contract (UniversalTrigger)
 
 ```bash
