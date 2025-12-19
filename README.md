@@ -1,4 +1,4 @@
-# PancakeV3Pool-UniversalWrapper
+# PancakeV3Pool UniversalWrapper
 
 ## Overview
 
