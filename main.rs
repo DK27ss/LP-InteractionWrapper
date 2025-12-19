@@ -370,7 +370,7 @@ async fn main() -> Result<()> {
             }
 
             let (base_bal, quote_bal) = contract.get_balances().call().await?;
-            println!("\nSolde: {} base | {} quote", format_ether(base_bal), format_ether(quote_bal));
+            println!("\nBalance: {} base | {} quote", format_ether(base_bal), format_ether(quote_bal));
         }
 
         Commands::Sell { amount, count } => {
