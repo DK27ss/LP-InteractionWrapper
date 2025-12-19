@@ -226,3 +226,19 @@ The `rebalance` function executes in a single transaction:
 2. Last: All ADD operations (Mint events)
 
 Since ADDs are the **last events**, bots interpret this as a buy signal.
+
+// Add - Remove
+
+<img width="1437" height="183" alt="Screenshot from 2025-12-19 23-55-09" src="https://github.com/user-attachments/assets/5d7dfe86-5f44-4073-8301-394883bf29ec" />
+
+<img width="251" height="75" alt="Screenshot from 2025-12-19 23-58-24" src="https://github.com/user-attachments/assets/e0669d4f-2e50-4c4e-b05c-ee44ae0fe359" />
+
+// Batch
+
+<img width="1418" height="404" alt="Screenshot from 2025-12-19 23-55-46" src="https://github.com/user-attachments/assets/05537f13-73ee-4d58-8a1d-d97c2c328ea3" />
+
+<img width="260" height="473" alt="Screenshot from 2025-12-19 23-58-34" src="https://github.com/user-attachments/assets/7465eabb-86b3-4349-b3c1-85d472e442df" />
+
+<img width="260" height="473" alt="Screenshot from 2025-12-19 23-58-42" src="https://github.com/user-attachments/assets/72ab6360-e2ba-4e78-806e-33751aa598af" />
+
+
