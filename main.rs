@@ -150,7 +150,6 @@ async fn main() -> Result<()> {
                 println!("Pool configuré - Bloc: {}", r.block_number.unwrap_or_default());
             }
 
-            // Show pool info
             let (pool, base, quote, fee, tick) = contract.get_pool_info().call().await?;
             println!("\n=== Pool Info ===");
             println!("Pool:   {:?}", pool);
